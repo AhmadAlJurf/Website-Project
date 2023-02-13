@@ -4,6 +4,10 @@ ________________________________________________________________________________
 # Project Description
 This project aimed to create a website for McDonald's (JO), it was a part of my final project for my (Website Design and Development) class in university, in which we learned the many principles. technologies, techniques, and tools of buidling a website.
 
+
+The project also included a thesis on various topics applied in this website
+![Website Final Report (14)](https://user-images.githubusercontent.com/95411800/218383112-ea636e5f-eba3-458c-92d0-674956bfeea2.png)
+
 _________________________________________________________________________________
 
 # Project Requirments:
