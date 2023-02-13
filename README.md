@@ -1,8 +1,8 @@
-# Website Desgin And Development Project
+# Website Desgin And Development Project 2023
 _________________________________________________________________________________
 
 # Project Description
-This project aimed to create a website for McDonald's (Jo), it was a part of my final project for my (Website Design and Development) class in university, in which we learned the many principles. technologies, techniques, and tools of buidling a website.
+This project aimed to create a website for McDonald's (JO), it was a part of my final project for my (Website Design and Development) class in university, in which we learned the many principles. technologies, techniques, and tools of buidling a website.
 
 _________________________________________________________________________________
 
@@ -29,7 +29,8 @@ ________________________________________________________________________________
 _________________________________________________________________________________
 
 # Screenshots of the website
-![Github Images](https://user-images.githubusercontent.com/95411800/218382280-f770a092-e3f8-4129-90da-24e67046eb52.png)
-![Github Images (1)](https://user-images.githubusercontent.com/95411800/218382286-2d2f5b26-d68a-49eb-accb-8f69e1371092.png)
-![Github Images (2)](https://user-images.githubusercontent.com/95411800/218382293-47225c54-0c44-416a-bf7a-4175dbedb3a9.png)
+![Github Images](https://user-images.githubusercontent.com/95411800/218382672-551494f0-196d-4436-87f9-a5f992e2e730.png)
+![Github Images (1)](https://user-images.githubusercontent.com/95411800/218382678-f73a8f42-069a-4327-98b2-4b6b984a35a9.png)
+![Github Images (2)](https://user-images.githubusercontent.com/95411800/218382689-5bfefdcc-32c7-4e96-a2d0-ef64976bed87.png)
+
 
