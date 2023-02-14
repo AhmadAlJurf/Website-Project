@@ -2,6 +2,8 @@
 _________________________________________________________________________________
 
 # Project Description
+As a fan of graphics design I knew since lecture #1 that this class would turn out to become one of my favorites! Therefore I wanted to use the development skills that I attained in this class to create a solution for all the problems that I personally face in using different websites.
+
 This project aimed to create a website for McDonald's (JO), it was a part of my final project for my (Website Design and Development) class in university, in which we learned the many principles. technologies, techniques, and tools of buidling a website.
 
 
